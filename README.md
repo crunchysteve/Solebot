@@ -1,6 +1,6 @@
 # Announcement
 
-Where did Solébot go? It has gone to [Codberg.org](https://codeberg.org/crunchysteve/SoleBot)
+Where did Solébot go? It has gone to [Codberg.org](https://codeberg.org/crunchysteve/SoleBot), as have most of my other repos, although a few have been deleted.
 
 Why? After experiementing with the hyperscale AIs and finding them pretty much useless, then, seeing a very dear friend let his brains fall out by using AI how he should do anything in his life, all the while admitting his own laziness. The enshittification brought about by AI doing the work of humans or humans using AI to do work they're not qualified to do, I'm cutting AI out of my life in the ways I have control over and, where it might be useful, only running small, local hosted models on hardware I own and can isolate.
 
